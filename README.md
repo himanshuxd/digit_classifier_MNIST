@@ -2,7 +2,7 @@
 A python based classifier for the MNIST digit classifier dataset
 
 # Structure
-/data/ had the data which can also be pulled from Yann LeCun's personal site : 
+/data/ has the data which can also be pulled from Yann LeCun's personal site : 
 http://yann.lecun.com/exdb/mnist/
 
 classifier.py contains the script for MNIST digit classification.
